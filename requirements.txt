@@ -1,0 +1,14 @@
+streamlit
+numpy
+joblib
+transformers
+tensorflow
+nltk
+nltk.stem
+nltk.corpus
+re
+shap
+collections
+pandas
+altair
+warnings
